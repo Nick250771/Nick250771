@@ -1,6 +1,6 @@
 ![MasterHead](<https://github.com/Th1l1na/Th1l1na/blob/main/github-header-image%20(1).png>)
 
-<h1 align="center">Hi 👋, I'm Thilina Lakshan</h1>
+<h1 align="center">Hi 👋, I'm Nicolás Mora</h1>
 <h3 align="center">A passionate Data Science Enthusiast from SriLanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
