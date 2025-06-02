@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/NMora011" target="blank"><img src="" alt="NMora011" /></a> </p>
 
-- 🔭 I’m currently working on [Sayora Web Apllication](https://github.com/ushan-rx/Sayora_web_application)
+- 🔭 I’m currently working on [Foundever CO]()
 
 - 🌱 I’m currently learning **R, Python, Pandas, Numpy**
 
