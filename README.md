@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/NMora011" target="blank"><img src="" alt="NMora011" /></a> </p>
 
-- 🔭 I’m currently working on [Foundever CO]()
+- 🔭 I’m currently working on [Foundever CO]().
 
-- 🌱 I’m currently learning **Java, C++, JavaScript, Python Advanced, Linux and MySQL**
+- 🌱 I’m currently learning **Java, C++, JavaScript, Python Advanced, Linux and MySQL**.
 
-- 💬 Ask me about **Python, SQL, Backend, Cibersecurity and Networking**
+- 💬 Ask me about **Python, SQL, Backend, Cibersecurity and Networking**.
 
-- 📫 How to reach me **nicomomol25@gmail.com**
+- 📫 How to reach me **nicomomol25@gmail.com**.
 
 - View my portfolio - **click here**
 
