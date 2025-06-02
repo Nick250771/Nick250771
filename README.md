@@ -1,4 +1,4 @@
-![MasterHead](<https://github.com/Th1l1na/Th1l1na/blob/main/github-header-image%20(1).png>)
+![MasterHead](<>)
 
 <h1 align="center">Hi 👋, I'm Nicolás Mora</h1>
 <h3 align="center">A passionate Data Science Enthusiast from SriLanka.</h3>
