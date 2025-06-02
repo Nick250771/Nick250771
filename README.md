@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [Foundever CO]()
 
-- 🌱 I’m currently learning **R, Python, Pandas, Numpy**
+- 🌱 I’m currently learning **Java, C++, JavaScript, Python Advanced, Linux and MySQL**
 
-- 💬 Ask me about **SQL, MERN, Frontend, UI/UX, figma, HTML, JavaScript, CSS**
+- 💬 Ask me about **Python, SQL, Backend, Cibersecurity and Networking**
 
-- 📫 How to reach me **lakshants500@gmail.com**
+- 📫 How to reach me **nicomomol25@gmail.com**
 6
 - View my portfolio - **click here**
 
