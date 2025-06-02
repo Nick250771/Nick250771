@@ -15,7 +15,7 @@
 - 💬 Ask me about **Python, SQL, Backend, Cibersecurity and Networking**
 
 - 📫 How to reach me **nicomomol25@gmail.com**
-6
+
 - View my portfolio - **click here**
 
 <h3 align="left">Connect with me:</h3>
