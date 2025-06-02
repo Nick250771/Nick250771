@@ -34,7 +34,7 @@
 <h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
 
 <a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th1l1na&theme=github_dark&hide_border=true)](https://github.com/bindian0509" alt="Thilina's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th1l1na&theme=github_dark&hide_border=true)](https://github.com/bindian0509" alt="Nicolás's GitHub Stats Graph"/>
 </a>
 <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=th1l1na&show_icons=true&theme=github_dark&show_icons=true&layout=compact&hide_rank=false" alt="th1l1na"  />
@@ -44,5 +44,5 @@
 
 ---
 
-Credit: [Th1l1na](https://github.com/Th1l1na)
+Credit: [Nicolás](https://github.com/Th1l1na)
 Last Edited on: 14/11/2024
