@@ -44,5 +44,5 @@
 
 ---
 
-Credit: [Nicolás](https://github.com/Th1l1na)
-Last Edited on: 14/11/2024
+Credit: [Nicolás](https://github.com/Niick250771)
+Last Edited on: 2/06/2025
