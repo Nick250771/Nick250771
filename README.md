@@ -30,18 +30,6 @@
 <h2 align="center" style="margin: 10px;">Languages and Tools:</h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
-
-<a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th1l1na&theme=github_dark&hide_border=true)](https://github.com/bindian0509" alt="Nicolás's GitHub Stats Graph"/>
-</a>
-<br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Niick250771&show_icons=true&theme=github_dark&show_icons=true&layout=compact&hide_rank=false" alt="Niick250771"  />
-<br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1l1na&layout=compact&theme=github_dark&show_icons=true" alt="th1l1na" />
-</div>
-
 ---
 
 Credit: [Nicolás](https://github.com/Niick250771)
