@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/NMora011" target="blank"><img src="" alt="NMora011" /></a> </p>
 
-- 🔭 I’m currently working on [Foundever CO]().
+- 🔭 I’m currently working on [CTG Colombia / Cegeka]().
 
 - 🌱 I’m currently learning **Java, C++, JavaScript, Python Advanced, Linux and MySQL**.
 
